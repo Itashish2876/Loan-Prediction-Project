@@ -1,5 +1,5 @@
 ## 🌐 Live Demo
-[Click here to view the live app 🚀](https://loan-checker.streamlit.app/)
+[Click here to view the live app 🚀](https://loan-predicton.streamlit.app/)
 
 # Loan Assignment Project
 
